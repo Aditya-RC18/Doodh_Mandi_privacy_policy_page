@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Delete Account – Doodh Mandi. Learn how to permanently delete your account and personal data from our B2B milk delivery management app." />
+  <title>Delete Account – Doodh Mandi</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Plus+Jakarta+Sans:wght@700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- HEADER -->
+  <header class="site-header">
+    <div class="header-inner">
+      <div class="brand">
+        <img src="logo.png" alt="Doodh Mandi Logo" class="brand-logo" />
+        <div class="brand-text">
+          <span class="brand-name">Doodh Mandi</span>
+          <span class="brand-tagline">Delete Account</span>
+        </div>
+      </div>
+      <div class="header-badge">
+        <svg width="14" height="14" viewBox="0 0 14 14" fill="none" aria-hidden="true"><path d="M7 1L8.8 5.1H13.2L9.7 7.8L11 12L7 9.3L3 12L4.3 7.8L0.8 5.1H5.2L7 1Z" fill="#27ae60"/></svg>
+        Google Play
+      </div>
+    </div>
+  </header>
+
+  <!-- HERO BAND -->
+  <div class="hero-band">
+    <div class="container">
+      <p class="effective-label">Account Management</p>
+      <h1 class="hero-title">Delete Your Account</h1>
+      <p class="hero-date">24 June 2026</p>
+      <p class="hero-desc">
+        We understand you may want to delete your <strong>Doodh Mandi</strong> account. This page explains how to do so and what data will be removed.
+      </p>
+    </div>
+  </div>
+
+  <!-- MAIN CONTENT -->
+  <main class="main-wrap">
+    <div class="container">
+
+      <!-- TABLE OF CONTENTS -->
+      <nav class="toc-card" aria-label="Table of Contents">
+        <div class="toc-header">
+          <svg width="16" height="16" viewBox="0 0 16 16" fill="none" aria-hidden="true"><rect x="1" y="3" width="14" height="1.5" rx="0.75" fill="#27ae60"/><rect x="1" y="7.25" width="10" height="1.5" rx="0.75" fill="#27ae60"/><rect x="1" y="11.5" width="12" height="1.5" rx="0.75" fill="#27ae60"/></svg>
+          Contents
+        </div>
+        <ol class="toc-list">
+          <li><a href="#section-1">How to Delete Your Account</a></li>
+          <li><a href="#section-2">What Data Will Be Deleted</a></li>
+          <li><a href="#section-3">Data That May Be Retained</a></li>
+          <li><a href="#section-4">Important Notes</a></li>
+          <li><a href="#section-5">Contact Support</a></li>
+        </ol>
+      </nav>
+
+      <!-- DELETE ACCOUNT SECTIONS -->
+      <div class="policy-body">
+
+        <section class="policy-section" id="section-1">
+          <div class="section-label">01</div>
+          <h2 class="section-title">How to Delete Your Account</h2>
+          <p>Deleting your account is simple and can be done directly from within the app. Follow these steps:</p>
+          <ul class="policy-list">
+            <li>Open the <strong>Doodh Mandi</strong> app on your device</li>
+            <li>Sign in to your account with your phone number</li>
+            <li>Navigate to your <strong>Profile</strong> section</li>
+            <li>Scroll down to find <strong>Delete Account</strong> option</li>
+            <li>Tap on <strong>Delete Account</strong></li>
+            <li>Review the confirmation message carefully</li>
+            <li>Confirm the deletion request by tapping <strong>Yes, Delete Permanently</strong></li>
+          </ul>
+          <div class="info-callout">
+            <span class="callout-icon" aria-hidden="true">
+              <svg width="16" height="16" viewBox="0 0 16 16" fill="none"><circle cx="8" cy="8" r="7" stroke="#27ae60" stroke-width="1.5"/><path d="M8 7v4M8 5v.5" stroke="#27ae60" stroke-width="1.5" stroke-linecap="round"/></svg>
+            </span>
+            Once confirmed, your account deletion process will begin immediately. This action <strong>cannot be undone</strong>.
+          </div>
+        </section>
+
+        <section class="policy-section" id="section-2">
+          <div class="section-label">02</div>
+          <h2 class="section-title">What Data Will Be Deleted</h2>
+          <p>When you delete your account, the following information will be <strong>permanently removed</strong> from our systems within 30 days:</p>
+          <ul class="policy-list">
+            <li>Your full name</li>
+            <li>Phone number</li>
+            <li>Email address (if provided)</li>
+            <li>Shop or business name</li>
+            <li>Business details and profile information</li>
+            <li>Complete order history and transaction records</li>
+            <li>Device token (FCM token) for push notifications</li>
+            <li>Account settings and preferences</li>
+            <li>All associated account data</li>
+          </ul>
+          <div class="info-callout">
+            <span class="callout-icon" aria-hidden="true">
+              <svg width="16" height="16" viewBox="0 0 16 16" fill="none"><circle cx="8" cy="8" r="7" stroke="#27ae60" stroke-width="1.5"/><path d="M8 7v4M8 5v.5" stroke="#27ae60" stroke-width="1.5" stroke-linecap="round"/></svg>
+            </span>
+            Your data is irreversibly deleted and cannot be recovered after 30 days. Please ensure you have backed up any important information before proceeding.
+          </div>
+        </section>
+
+        <section class="policy-section" id="section-3">
+          <div class="section-label">03</div>
+          <h2 class="section-title">Data That May Be Retained</h2>
+          <p>
+            Certain information may be retained for limited periods only when required by applicable laws, regulations, fraud prevention, dispute resolution, or security purposes.
+          </p>
+          <ul class="policy-list">
+            <li>Transaction records required for tax or legal compliance (kept for the period mandated by Indian law)</li>
+            <li>Data needed to prevent fraud or resolve disputes between suppliers and retailers</li>
+            <li>Security logs for account protection and system security</li>
+            <li>Aggregated, anonymized data for app analytics and improvements</li>
+          </ul>
+          <p>
+            Any retained information is kept only for the minimum period required and is stored securely with access restricted to authorized personnel only.
+          </p>
+        </section>
+
+        <section class="policy-section" id="section-4">
+          <div class="section-label">04</div>
+          <h2 class="section-title">Important Notes</h2>
+          <ul class="policy-list">
+            <li><strong>No Reactivation:</strong> Your account cannot be reactivated after deletion. You will need to create a new account if you wish to use Doodh Mandi again.</li>
+            <li><strong>Account Name Cannot Be Reused:</strong> Your phone number cannot be used to register a new account for <strong>90 days</strong> after deletion.</li>
+            <li><strong>Outstanding Orders:</strong> Ensure all outstanding orders are settled before deleting your account.</li>
+            <li><strong>Outstanding Payments:</strong> Any pending payments or disputes must be resolved before deletion.</li>
+            <li><strong>Processing Time:</strong> Complete deletion of all data takes up to 30 days. Some cached data may remain temporarily.</li>
+            <li><strong>No Refunds:</strong> We do not provide refunds for deleted accounts. Payment terms remain as per our Terms & Conditions.</li>
+          </ul>
+        </section>
+
+        <section class="policy-section" id="section-5">
+          <div class="section-label">05</div>
+          <h2 class="section-title">Contact Support</h2>
+          <p>
+            If you experience any issues deleting your account or have questions about the deletion process, please contact our support team:
+          </p>
+          <div class="contact-card">
+            <div class="contact-row">
+              <span class="contact-icon" aria-hidden="true">
+                <svg width="18" height="18" viewBox="0 0 18 18" fill="none"><rect x="1" y="4" width="16" height="11" rx="2" stroke="#27ae60" stroke-width="1.5"/><path d="M1 7l8 5 8-5" stroke="#27ae60" stroke-width="1.5" stroke-linecap="round"/></svg>
+              </span>
+              <div>
+                <span class="contact-label">Email</span>
+                <a href="mailto:aditya.chikane.dev@gmail.com" class="contact-value">aditya.chikane.dev@gmail.com</a>
+              </div>
+            </div>
+            <div class="contact-divider"></div>
+            <div class="contact-row">
+              <span class="contact-icon" aria-hidden="true">
+                <svg width="18" height="18" viewBox="0 0 18 18" fill="none"><rect x="4" y="1" width="10" height="16" rx="2" stroke="#27ae60" stroke-width="1.5"/><circle cx="9" cy="14" r="0.75" fill="#27ae60"/></svg>
+              </span>
+              <div>
+                <span class="contact-label">App</span>
+                <span class="contact-value">Doodh Mandi</span>
+              </div>
+            </div>
+            <div class="contact-divider"></div>
+            <div class="contact-row">
+              <span class="contact-icon" aria-hidden="true">
+                <svg width="18" height="18" viewBox="0 0 18 18" fill="none"><circle cx="9" cy="9" r="7.5" stroke="#27ae60" stroke-width="1.5"/><path d="M9 1.5C9 1.5 6 5 6 9s3 7.5 3 7.5M9 1.5C9 1.5 12 5 12 9s-3 7.5-3 7.5M1.5 9h15" stroke="#27ae60" stroke-width="1.5" stroke-linecap="round"/></svg>
+              </span>
+              <div>
+                <span class="contact-label">Country</span>
+                <span class="contact-value">India</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="info-callout" style="margin-top:20px;">
+            <span class="callout-icon" aria-hidden="true">
+              <svg width="16" height="16" viewBox="0 0 16 16" fill="none"><circle cx="8" cy="8" r="7" stroke="#27ae60" stroke-width="1.5"/><path d="M8 7v4M8 5v.5" stroke="#27ae60" stroke-width="1.5" stroke-linecap="round"/></svg>
+            </span>
+            Also review our <a href="index.html" style="color:#27ae60;font-weight:600;text-decoration:underline;">Privacy Policy</a> and <a href="terms.html" style="color:#27ae60;font-weight:600;text-decoration:underline;">Terms & Conditions</a> for more information.
+          </div>
+
+        </section>
+
+      </div>
+      <!-- end policy-body -->
+
+    </div>
+  </main>
+
+  <!-- FOOTER -->
+  <footer class="site-footer">
+    <div class="container">
+      <p class="footer-copy">© 2026 Doodh Mandi. All rights reserved.</p>
+      <p class="footer-note">This Delete Account page was last updated on 24 June 2026.</p>
+    </div>
+  </footer>
+
+</body>
+</html>
